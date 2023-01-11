@@ -13,4 +13,3 @@ Alarm Screen: The alarm page allows users to create alarms and stack them on a s
 Event Screen: Similar to the alarm page, the calendar page allows users to create and store their events. The + NEW EVENT button opens the alarm clock, on which we can input the date  the event is to be scheduled, each event is accompanied by a note (multiline) which is typed on by tapping(clicking) on it.
 
 List Screen: Lastly, the list page allows users to create and arrange items along with their quantities in a grid layout, making shopping much more convenient. The two text fields in the bottom of the screen are to input the name and quantity of the items respectively, and the + ADD ITEM button is to add the item to the list.
-
